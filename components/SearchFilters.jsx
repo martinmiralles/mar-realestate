@@ -99,7 +99,6 @@ export default function SearchFilters() {
             bg: "#fff",
             borderColor: "gray.500",
           }}
-          border="1px"
           borderColor="gray.200"
           m="auto"
           marginTop="2"
